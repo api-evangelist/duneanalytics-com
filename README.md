@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dune Analytics is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by multicoin-capital) and added to the network as a stub for full-pipeline profiling.
-- https://duneanalytics.com
+Dune Analytics provides on‑chain data and analytics for crypto markets, offering a platform where users can explore, query, and visualize blockchain datasets across multiple chains. It serves institutional investors, developers, and analysts with market data feeds, custom dashboards, and API access to raw blockchain events, enabling data‑driven decisions in decentralized finance, stablecoins, real‑world assets, and more.
+
+**Areas:** Company · Blockchain · Data · Analytics · Crypto
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://duneanalytics.com)
+- [Documentation](https://docs.dune.com)
+- [Getting started](https://docs.dune.com/web-app/okta-sso)
+- [API reference](https://docs.dune.com/api-reference/overview/introduction)
+- [Pricing](https://dune.com/pricing)
+- [Support](https://dune.com/contact)
+- [Blog](https://dune.com/blog)
+- [Trust centre](https://trust.dune.com/)
+- [Terms of service](https://dune.com/terms)
+- [Privacy policy](https://dune.com/privacy)
+- [Status](https://status.dune.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/duneanalytics-com/](https://apis.io/providers/duneanalytics-com/).
